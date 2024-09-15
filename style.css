@@ -1,0 +1,16 @@
+/* *{
+    background-color: #200185;
+} */
+
+.secContainer{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: #200185 ;
+}
+
+.deviceStyle {
+    height: 10vh;
+    width: auto;
+
+}
